@@ -1,2 +1,4 @@
 com/example/fileprocessor/FileProcessorApplication.class
+com/example/fileprocessor/controller/TextProcessorController.class
+com/example/fileprocessor/controller/FileUploadController.class
 com/example/fileprocessor/controller/HelloController.class
