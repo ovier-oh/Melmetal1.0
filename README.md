@@ -82,3 +82,23 @@ URL: http://localhost:8080/hello
 Método: GET
 
 Respuesta esperada: "Hola mundo desde Java"
+
+🧪 Cómo testear con JUnit (Etapa 1)
+bash
+Copiar código
+./mvnw test
+
+📈 Futuras mejoras
+Interfaz web visual.
+
+Base de datos para seguimiento.
+
+Procesamiento concurrente.
+
+Integración con sistema de almacenamiento externo (S3, etc).
+
+🧑‍💻 Autor
+Ovier Hinostroza – @tuGitHub
+
+📝 Licencia
+Este proyecto está bajo la Licencia MIT.
