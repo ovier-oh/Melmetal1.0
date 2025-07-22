@@ -1,2 +1,4 @@
-/workspaces/Melmetal1.0/src/main/java/controller/HelloController.java
+/workspaces/Melmetal1.0/src/main/java/com/example/fileprocessor/controller/TextProcessorController.java
 /workspaces/Melmetal1.0/src/main/java/com/example/fileprocessor/FileProcessorApplication.java
+/workspaces/Melmetal1.0/src/main/java/com/example/fileprocessor/controller/FileUploadController.java
+/workspaces/Melmetal1.0/src/main/java/com/example/fileprocessor/controller/HelloController.java
