@@ -53,6 +53,9 @@ file-processor/
 │ ├── main/
 │ │ └── java/com/example/fileprocessor/
 │ │ ├── controller/
+│ │ │   ├── FileUploadController.java
+│ │ │   ├── HelloController.java 
+│ │ │   ├── TextProcessorController.java
 │ │ ├── service/
 │ │ ├── model/
 │ │ └── FileProcessorApplication.java
